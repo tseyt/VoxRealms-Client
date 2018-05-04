@@ -57,6 +57,8 @@ ASSET_TYPE = {Environment = "Env", Mob = "Mob", Other = "Other"} --ServerStorage
 ,
 ITEM_TYPE = {Weapon = "Weapon", Ability = "Ability", Armor = "Armor", Accessory = "Accessory"}
 ,
+SLOT_TYPE = {Staff = 1, Sword = 2, Bow = 3}
+,
 STAT_TYPE = {Attack = 1, Defense = 2, Speed = 3, Dexterity = 4, HealthRegen = 5, EnergyRegen = 6, Health = 7, Energy = 8}
 ,
 CHAR_STAT_TYPE = {Player = 1, Char = 2, Stats = 3, Inventory = 4}
